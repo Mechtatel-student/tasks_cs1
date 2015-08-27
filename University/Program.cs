@@ -10,7 +10,9 @@ namespace University
     {
         static void MainTatyana()
         {
-        
+            Console.WriteLine("123312412432543545454646");
+            Console.WriteLine("University");
+            Console.ReadKey(true);
         }
 
         static void MainTaisiya()
