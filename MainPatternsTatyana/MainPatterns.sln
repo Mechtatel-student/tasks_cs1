@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVP", "MVP\MVP.csproj", "{4D610E5A-DF4A-4980-A63A-232974F2AD9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormForCalculation", "FormForCalculation\FormForCalculation.csproj", "{FE6179B3-D710-45F0-B13D-5357E6AE4665}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVM", "MVVM\MVVM.csproj", "{45879901-BED3-44A7-882E-0B307CAED6B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D610E5A-DF4A-4980-A63A-232974F2AD9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D610E5A-DF4A-4980-A63A-232974F2AD9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D610E5A-DF4A-4980-A63A-232974F2AD9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D610E5A-DF4A-4980-A63A-232974F2AD9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE6179B3-D710-45F0-B13D-5357E6AE4665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE6179B3-D710-45F0-B13D-5357E6AE4665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE6179B3-D710-45F0-B13D-5357E6AE4665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE6179B3-D710-45F0-B13D-5357E6AE4665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45879901-BED3-44A7-882E-0B307CAED6B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45879901-BED3-44A7-882E-0B307CAED6B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45879901-BED3-44A7-882E-0B307CAED6B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45879901-BED3-44A7-882E-0B307CAED6B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
