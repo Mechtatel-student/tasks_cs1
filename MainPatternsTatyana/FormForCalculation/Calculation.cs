@@ -34,7 +34,7 @@ namespace FormForCalculation
                         r = op1 / op2;
                         break;
                     default:
-                        r = 1;
+                        r = 1;  
                         break;
                 }
                 result = r.ToString();

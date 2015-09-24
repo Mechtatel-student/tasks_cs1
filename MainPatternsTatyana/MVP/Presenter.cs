@@ -9,14 +9,14 @@ namespace MVP
 {
     class Presenter
     {
-        Form Form1;
+        CalculatorView view;
         Model model = new Model();
 
         public void Begin()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new CalculatorView());
         }
 
         public void ViewToPresenter()

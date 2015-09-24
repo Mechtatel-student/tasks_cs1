@@ -10,23 +10,17 @@ using System.Windows.Forms;
 
 namespace MVP
 {
-    public partial class Form1 : Form
-    {   
-        string currentSign=ra
-        public void ViewToPresenter(out string a, out string b, out string sign)
-        {
-            a = textBox1.Text;
-            b = textBox2;
-            sign=
-        }
-        public Form1()
+    public partial class CalculatorView : Form
+    {
+                
+        public CalculatorView()
         {
             InitializeComponent();
         }
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
-
+            
         }
 
         private void button1_Click(object sender, EventArgs e)
