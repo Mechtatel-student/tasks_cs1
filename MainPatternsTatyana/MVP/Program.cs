@@ -14,9 +14,8 @@ namespace MVP
         [STAThread]
         static void Main()
         {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new CalculatorView());
+            Presenter presenter = new Presenter();
+            presenter.Begin();
         }
     }
 }
